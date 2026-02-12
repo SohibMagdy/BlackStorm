@@ -3,7 +3,7 @@
 <h1 align="center">Black Storm</h1>
 
 <p align="center">
-  <b>Dark • Minimal • Neon Green • CLI</b><br>
+  <b>PHISHING TOOL . SOCIAL ENGINERRING</b><br>
   <i>Educational terminal-based framework for learning phishing concepts</i>
 </p>
 
