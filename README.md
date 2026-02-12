@@ -68,13 +68,12 @@ It is especially helpful for:
 
 ## ✨ Features
 
-- ✔️ Neon green themed CLI interface  
-- ✔️ FIGLET-based banners (main & small)  
-- ✔️ Clean and readable terminal menus  
-- ✔️ Lightweight & fast rendering  
-- ✔️ Optimized for 256-color terminals  
-- ✔️ No auto-update logic  
-- ✔️ UI-focused modification  
+- ✔️ profitional fake pages 
+- ✔️ work on the localhost  
+- ✔️ work over LAN using cloudflare and ngrok  
+- ✔️ spable connection 
+- ✔️ frindly GUI   
+- ✔️ multiply sessions     
 
 > This version emphasizes **visual clarity and learning**, not automation power.
 
