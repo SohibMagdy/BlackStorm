@@ -30,6 +30,15 @@ This project focuses on:
 
 ---
 
+<p align="center">
+  <img src="img1.png" width="700">
+</p>
+<p align="center">
+  <img src="img2.png" width="700">
+</p>
+
+
+
 ## 🎯 What Does Black Storm Teach About Phishing?
 
 Black Storm helps learners understand phishing by demonstrating **how attackers think and operate**, without encouraging misuse.
@@ -137,3 +146,4 @@ Respect original authorship and use responsibly.
   <b>Black Storm</b><br>
   <i>Learn how phishing works — so you can stop it.</i>
 </p>
+
